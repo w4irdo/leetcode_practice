@@ -3,11 +3,16 @@ Step by step!
 
 
 
-| #    | Title                                                        | Difficulty |
-| ---- | ------------------------------------------------------------ | ---------- |
-| 1    | [Two Sum](https://github.com/w4irdo/leetcode_practice/issues/1) | Easy       |
-| 771  | [Jewels and Stones](https://github.com/w4irdo/leetcode_practice/issues/2) | Easy       |
-| 617  | [Merge Two Binary Trees](https://github.com/w4irdo/leetcode_practice/issues/3) | Easy       |
-| 104  | [Maximum Depth of Binary Tree](https://github.com/w4irdo/leetcode_practice/issues/4) | Easy       |
-| 136  | [Single Number](https://github.com/w4irdo/leetcode_practice/issues/5) | Easy       |
+|  #   |                            Title                             | Difficulty |
+| :--: | :----------------------------------------------------------: | :--------: |
+|  1   | [Two Sum](https://github.com/w4irdo/leetcode_practice/issues/1) |    Easy    |
+| 771  | [Jewels and Stones](https://github.com/w4irdo/leetcode_practice/issues/2) |    Easy    |
+| 617  | [Merge Two Binary Trees](https://github.com/w4irdo/leetcode_practice/issues/3) |    Easy    |
+| 104  | [Maximum Depth of Binary Tree](https://github.com/w4irdo/leetcode_practice/issues/4) |    Easy    |
+| 136  | [Single Number](https://github.com/w4irdo/leetcode_practice/issues/5) |    Easy    |
+| 226  | [Invert Binary Tree](https://github.com/w4irdo/leetcode_practice/issues/6) |    Easy    |
+|      |                                                              |            |
+|      |                                                              |            |
+|      |                                                              |            |
+|      |                                                              |            |
 
