@@ -12,7 +12,7 @@ Step by step!
 | 136  | [Single Number](https://github.com/w4irdo/leetcode_practice/issues/5) |    Easy    |
 | 226  | [Invert Binary Tree](https://github.com/w4irdo/leetcode_practice/issues/6) |    Easy    |
 | 206  | [Reverse Linked List](https://github.com/w4irdo/leetcode_practice/issues/7) |    Easy    |
-|      |                                                              |            |
+| 283  | [Move Zeroes](https://github.com/w4irdo/leetcode_practice/issues/8) |    Easy    |
 |      |                                                              |            |
 |      |                                                              |            |
 
