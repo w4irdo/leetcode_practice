@@ -13,6 +13,6 @@ Step by step!
 | 226  | [Invert Binary Tree](https://github.com/w4irdo/leetcode_practice/issues/6) |    Easy    |
 | 206  | [Reverse Linked List](https://github.com/w4irdo/leetcode_practice/issues/7) |    Easy    |
 | 283  | [Move Zeroes](https://github.com/w4irdo/leetcode_practice/issues/8) |    Easy    |
-|      |                                                              |            |
+| 566  | [Reshape the Matrix](https://github.com/w4irdo/leetcode_practice/issues/9) |    Easy    |
 |      |                                                              |            |
 
