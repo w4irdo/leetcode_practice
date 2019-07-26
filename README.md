@@ -15,4 +15,5 @@ Step by step!
 | 283  | [Move Zeroes](https://github.com/w4irdo/leetcode_practice/issues/8) |    Easy    |
 | 566  | [Reshape the Matrix](https://github.com/w4irdo/leetcode_practice/issues/9) |    Easy    |
 | 485  | [Max Consecutive Ones](https://github.com/w4irdo/leetcode_practice/issues/10) |    Easy    |
+| 240  | [Search a 2D Matrix II](https://github.com/w4irdo/leetcode_practice/issues/11) |   Medium   |
 
