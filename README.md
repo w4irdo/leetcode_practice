@@ -18,4 +18,5 @@ Step by step!
 | 240  | [Search a 2D Matrix II](https://github.com/w4irdo/leetcode_practice/issues/11) |   Medium   |
 | 378  | [Kth Smallest Element in a Sorted Matrix](https://github.com/w4irdo/leetcode_practice/issues/12) |   Medium   |
 | 645  | [Set Mismatch](https://github.com/w4irdo/leetcode_practice/issues/13) |    Easy    |
+| 343  | [Integer Break](https://github.com/w4irdo/leetcode_practice/issues/14) |   Medium   |
 
